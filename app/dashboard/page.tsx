@@ -15,7 +15,7 @@ import {
 
 const apps = [
   {
-    name: "Analytics Pro",
+    name: "Analytics Pro+",
     description: "Advanced data visualization and analytics platform",
     icon: BarChart3,
     color: "bg-blue-500",
