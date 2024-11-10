@@ -64,7 +64,7 @@ export default function Dashboard() {
       <div className="max-w-6xl mx-auto space-y-8">
         <div className="space-y-2">
           <h1 className="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 to-cyan-400">
-            Finger Tip
+            FingerTip
           </h1>
           <p className="text-zinc-400">
             Discover and launch your favorite applications
