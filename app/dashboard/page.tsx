@@ -7,7 +7,7 @@ import {
   BarChart3, 
   Calendar, 
   MessageSquare, 
-  Music4, 
+  Music4,
   Settings,
   Code2,
   ExternalLink
