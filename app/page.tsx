@@ -7,7 +7,7 @@ export default function Home() {
     <div className="flex min-h-screen flex-col items-center justify-center bg-gradient-to-b from-zinc-900 to-zinc-950">
       <div className="text-center space-y-6">
         <h1 className="text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 to-cyan-400">
-          Welcome to AppVault
+          Welcome to FingerTip
         </h1>
         <p className="text-zinc-400 text-lg max-w-md mx-auto">
           Your gateway to discovering and managing powerful applications
